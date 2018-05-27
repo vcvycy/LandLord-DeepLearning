@@ -1,0 +1,757 @@
+【round 1】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-1.data
+  Time:2456
+  [*]成功，一共有308827条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=30.815839150817684
+  [*]epoch_1 learning_rate=0.0001 mean_loss=30.653554376939056
+  [*]epoch_2 learning_rate=0.0001 mean_loss=30.570956528601723
+  [*]epoch_3 learning_rate=0.0001 mean_loss=30.546274711654586
+  [*]epoch_4 learning_rate=0.0001 mean_loss=30.499172979561433
+  [*]epoch_5 learning_rate=0.0001 mean_loss=30.475333266453546
+  [*]epoch_6 learning_rate=0.0001 mean_loss=30.434897135468542
+  [*]epoch_7 learning_rate=0.0001 mean_loss=30.39460598243292
+  [*]epoch_8 learning_rate=0.0001 mean_loss=30.365094630294042
+  [*]epoch_9 learning_rate=0.0001 mean_loss=30.34589696405234
+  [*]epoch_10 learning_rate=0.0001 mean_loss=30.275848532255672
+  [*]epoch_11 learning_rate=0.0001 mean_loss=30.262530234362945
+  [*]epoch_12 learning_rate=0.0001 mean_loss=30.206856564099837
+  [*]epoch_13 learning_rate=0.0001 mean_loss=30.21783915595829
+  [*]epoch_14 learning_rate=0.0001 mean_loss=30.139829346908613
+  [*]epoch_15 learning_rate=0.0001 mean_loss=30.108220606033946
+  [*]epoch_16 learning_rate=0.0001 mean_loss=30.098010137124763
+  [*]epoch_17 learning_rate=0.0001 mean_loss=30.063037039219648
+  [*]epoch_18 learning_rate=0.0001 mean_loss=30.055747884250447
+  [*]epoch_19 learning_rate=0.0001 mean_loss=30.02814367633046
+  [*]epoch_20 learning_rate=0.0001 mean_loss=29.99368233084003
+  [*]epoch_21 learning_rate=0.0001 mean_loss=29.96191570738363
+  [*]epoch_22 learning_rate=0.0001 mean_loss=29.909348101721665
+  [*]epoch_23 learning_rate=0.0001 mean_loss=29.89849963318632
+  [*]epoch_24 learning_rate=0.0001 mean_loss=29.87917251241078
+  [*]epoch_25 learning_rate=0.0001 mean_loss=29.84922856946429
+  [*]epoch_26 learning_rate=0.0001 mean_loss=29.828445748601972
+  [*]epoch_27 learning_rate=0.0001 mean_loss=29.809639802426027
+  [*]epoch_28 learning_rate=0.0001 mean_loss=29.779880339338572
+  [*]epoch_29 learning_rate=0.0001 mean_loss=29.75247651850963
+[*]save success
+
+【round 2】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-2.data
+  Time:2077
+  [*]成功，一共有250544条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=31.137307589745433
+  [*]epoch_1 learning_rate=0.0001 mean_loss=30.91002021695154
+  [*]epoch_2 learning_rate=0.0001 mean_loss=30.79410313636903
+  [*]epoch_3 learning_rate=0.0001 mean_loss=30.661515883546798
+  [*]epoch_4 learning_rate=0.0001 mean_loss=30.632151971960514
+  [*]epoch_5 learning_rate=0.0001 mean_loss=30.582664868475266
+  [*]epoch_6 learning_rate=0.0001 mean_loss=30.47872159885946
+  [*]epoch_7 learning_rate=0.0001 mean_loss=30.416915873761805
+  [*]epoch_8 learning_rate=0.0001 mean_loss=30.334835498971962
+  [*]epoch_9 learning_rate=0.0001 mean_loss=30.307873849025675
+  [*]epoch_10 learning_rate=0.0001 mean_loss=30.211794793260857
+  [*]epoch_11 learning_rate=0.0001 mean_loss=30.181736622378157
+  [*]epoch_12 learning_rate=0.0001 mean_loss=30.17038887395423
+  [*]epoch_13 learning_rate=0.0001 mean_loss=30.10114732261571
+  [*]epoch_14 learning_rate=0.0001 mean_loss=30.04159381693648
+  [*]epoch_15 learning_rate=0.0001 mean_loss=30.01082936143999
+  [*]epoch_16 learning_rate=0.0001 mean_loss=29.97414339614043
+  [*]epoch_17 learning_rate=0.0001 mean_loss=29.9620819293532
+  [*]epoch_18 learning_rate=0.0001 mean_loss=29.900010619185398
+  [*]epoch_19 learning_rate=0.0001 mean_loss=29.872047443728654
+  [*]epoch_20 learning_rate=0.0001 mean_loss=29.842198284532085
+  [*]epoch_21 learning_rate=0.0001 mean_loss=29.791248476450562
+  [*]epoch_22 learning_rate=0.0001 mean_loss=29.798841178785942
+  [*]epoch_23 learning_rate=0.0001 mean_loss=29.782174617605186
+  [*]epoch_24 learning_rate=0.0001 mean_loss=29.723253845811676
+  [*]epoch_25 learning_rate=0.0001 mean_loss=29.67434403520933
+  [*]epoch_26 learning_rate=0.0001 mean_loss=29.663686541829655
+  [*]epoch_27 learning_rate=0.0001 mean_loss=29.64404374143364
+  [*]epoch_28 learning_rate=0.0001 mean_loss=29.669329988673358
+  [*]epoch_29 learning_rate=0.0001 mean_loss=29.60966508332852
+[*]save success
+
+【round 3】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-3.data
+  Time:1689
+  [*]成功，一共有211040条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=30.595990430628117
+  [*]epoch_1 learning_rate=0.0001 mean_loss=30.27705652119
+  [*]epoch_2 learning_rate=0.0001 mean_loss=30.099809497488927
+  [*]epoch_3 learning_rate=0.0001 mean_loss=29.96024417628668
+  [*]epoch_4 learning_rate=0.0001 mean_loss=29.811064968908944
+  [*]epoch_5 learning_rate=0.0001 mean_loss=29.65343982973982
+  [*]epoch_6 learning_rate=0.0001 mean_loss=29.56862382091241
+  [*]epoch_7 learning_rate=0.0001 mean_loss=29.479398966456895
+  [*]epoch_8 learning_rate=0.0001 mean_loss=29.363636434826628
+  [*]epoch_9 learning_rate=0.0001 mean_loss=29.31432029653629
+  [*]epoch_10 learning_rate=0.0001 mean_loss=29.201920054981816
+  [*]epoch_11 learning_rate=0.0001 mean_loss=29.098038317100382
+  [*]epoch_12 learning_rate=0.0001 mean_loss=29.068557633519934
+  [*]epoch_13 learning_rate=0.0001 mean_loss=29.039870768919627
+  [*]epoch_14 learning_rate=0.0001 mean_loss=28.94292977059009
+  [*]epoch_15 learning_rate=0.0001 mean_loss=28.923613523651824
+  [*]epoch_16 learning_rate=0.0001 mean_loss=28.835255252555264
+  [*]epoch_17 learning_rate=0.0001 mean_loss=28.770922744197886
+  [*]epoch_18 learning_rate=0.0001 mean_loss=28.754908730480462
+  [*]epoch_19 learning_rate=0.0001 mean_loss=28.696202794400133
+  [*]epoch_20 learning_rate=0.0001 mean_loss=28.684519792840085
+  [*]epoch_21 learning_rate=0.0001 mean_loss=28.631752395087638
+  [*]epoch_22 learning_rate=0.0001 mean_loss=28.635000330101
+  [*]epoch_23 learning_rate=0.0001 mean_loss=28.534037201191627
+  [*]epoch_24 learning_rate=0.0001 mean_loss=28.557188537894085
+  [*]epoch_25 learning_rate=0.0001 mean_loss=28.51332966791626
+  [*]epoch_26 learning_rate=0.0001 mean_loss=28.501379629413936
+  [*]epoch_27 learning_rate=0.0001 mean_loss=28.46094004674648
+  [*]epoch_28 learning_rate=0.0001 mean_loss=28.43278111555203
+  [*]epoch_29 learning_rate=0.0001 mean_loss=28.419588474887323
+[*]save success
+
+【round 4】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-4.data
+  Time:1483
+  [*]成功，一共有200934条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=29.972711814639283
+  [*]epoch_1 learning_rate=0.0001 mean_loss=29.587445775677715
+  [*]epoch_2 learning_rate=0.0001 mean_loss=29.363809688081194
+  [*]epoch_3 learning_rate=0.0001 mean_loss=29.185462752809926
+  [*]epoch_4 learning_rate=0.0001 mean_loss=28.994138848636243
+  [*]epoch_5 learning_rate=0.0001 mean_loss=28.815277746940435
+  [*]epoch_6 learning_rate=0.0001 mean_loss=28.679590425493707
+  [*]epoch_7 learning_rate=0.0001 mean_loss=28.528492468392322
+  [*]epoch_8 learning_rate=0.0001 mean_loss=28.431800326888137
+  [*]epoch_9 learning_rate=0.0001 mean_loss=28.325946434839178
+  [*]epoch_10 learning_rate=0.0001 mean_loss=28.24577188029103
+  [*]epoch_11 learning_rate=0.0001 mean_loss=28.111974007159688
+  [*]epoch_12 learning_rate=0.0001 mean_loss=28.031335051897955
+  [*]epoch_13 learning_rate=0.0001 mean_loss=27.970723977223
+  [*]epoch_14 learning_rate=0.0001 mean_loss=27.91139526775329
+  [*]epoch_15 learning_rate=0.0001 mean_loss=27.868944766065262
+  [*]epoch_16 learning_rate=0.0001 mean_loss=27.855456067721445
+  [*]epoch_17 learning_rate=0.0001 mean_loss=27.699615386921128
+  [*]epoch_18 learning_rate=0.0001 mean_loss=27.662580419874036
+  [*]epoch_19 learning_rate=0.0001 mean_loss=27.67883331818971
+  [*]epoch_20 learning_rate=0.0001 mean_loss=27.583782242554044
+  [*]epoch_21 learning_rate=0.0001 mean_loss=27.50989579928992
+  [*]epoch_22 learning_rate=0.0001 mean_loss=27.51331527578976
+  [*]epoch_23 learning_rate=0.0001 mean_loss=27.46277187439481
+  [*]epoch_24 learning_rate=0.0001 mean_loss=27.464761357189975
+  [*]epoch_25 learning_rate=0.0001 mean_loss=27.384940658288382
+  [*]epoch_26 learning_rate=0.0001 mean_loss=27.35948486688808
+  [*]epoch_27 learning_rate=0.0001 mean_loss=27.359931626406496
+  [*]epoch_28 learning_rate=0.0001 mean_loss=27.32084803784122
+  [*]epoch_29 learning_rate=0.0001 mean_loss=27.271592496846797
+[*]save success
+
+【round 5】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-5.data
+  Time:1332
+  [*]成功，一共有188451条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=28.915417447077502
+  [*]epoch_1 learning_rate=0.0001 mean_loss=28.495118044036136
+  [*]epoch_2 learning_rate=0.0001 mean_loss=28.188534715384325
+  [*]epoch_3 learning_rate=0.0001 mean_loss=27.97254394156863
+  [*]epoch_4 learning_rate=0.0001 mean_loss=27.79951843190889
+  [*]epoch_5 learning_rate=0.0001 mean_loss=27.620460850743463
+  [*]epoch_6 learning_rate=0.0001 mean_loss=27.45202923883494
+  [*]epoch_7 learning_rate=0.0001 mean_loss=27.322285453330935
+  [*]epoch_8 learning_rate=0.0001 mean_loss=27.12661729453413
+  [*]epoch_9 learning_rate=0.0001 mean_loss=27.08054144578524
+  [*]epoch_10 learning_rate=0.0001 mean_loss=26.93621212329409
+  [*]epoch_11 learning_rate=0.0001 mean_loss=26.814887983792655
+  [*]epoch_12 learning_rate=0.0001 mean_loss=26.75861278250616
+  [*]epoch_13 learning_rate=0.0001 mean_loss=26.684347728961974
+  [*]epoch_14 learning_rate=0.0001 mean_loss=26.612291224755406
+  [*]epoch_15 learning_rate=0.0001 mean_loss=26.50565577388126
+  [*]epoch_16 learning_rate=0.0001 mean_loss=26.500032245322313
+  [*]epoch_17 learning_rate=0.0001 mean_loss=26.40488748879268
+  [*]epoch_18 learning_rate=0.0001 mean_loss=26.341256007085743
+  [*]epoch_19 learning_rate=0.0001 mean_loss=26.306874127476537
+  [*]epoch_20 learning_rate=0.0001 mean_loss=26.28527567127339
+  [*]epoch_21 learning_rate=0.0001 mean_loss=26.184098029705826
+  [*]epoch_22 learning_rate=0.0001 mean_loss=26.21153701610211
+  [*]epoch_23 learning_rate=0.0001 mean_loss=26.157989240894267
+  [*]epoch_24 learning_rate=0.0001 mean_loss=26.13263801807434
+  [*]epoch_25 learning_rate=0.0001 mean_loss=26.084726318440325
+  [*]epoch_26 learning_rate=0.0001 mean_loss=26.07947747663098
+  [*]epoch_27 learning_rate=0.0001 mean_loss=26.02450416322096
+  [*]epoch_28 learning_rate=0.0001 mean_loss=26.012512527283686
+  [*]epoch_29 learning_rate=0.0001 mean_loss=25.962984627437844
+[*]save success
+
+【round 6】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-6.data
+  Time:1610
+  [*]成功，一共有183855条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=28.066472069603908
+  [*]epoch_1 learning_rate=0.0001 mean_loss=27.603385978707028
+  [*]epoch_2 learning_rate=0.0001 mean_loss=27.32447195805046
+  [*]epoch_3 learning_rate=0.0001 mean_loss=27.053503679542064
+  [*]epoch_4 learning_rate=0.0001 mean_loss=26.898396971175178
+  [*]epoch_5 learning_rate=0.0001 mean_loss=26.649159469314085
+  [*]epoch_6 learning_rate=0.0001 mean_loss=26.500177488176636
+  [*]epoch_7 learning_rate=0.0001 mean_loss=26.327697145089694
+  [*]epoch_8 learning_rate=0.0001 mean_loss=26.172219971848158
+  [*]epoch_9 learning_rate=0.0001 mean_loss=26.050726272412913
+  [*]epoch_10 learning_rate=0.0001 mean_loss=25.905995386589346
+  [*]epoch_11 learning_rate=0.0001 mean_loss=25.777691177339122
+  [*]epoch_12 learning_rate=0.0001 mean_loss=25.715127803891686
+  [*]epoch_13 learning_rate=0.0001 mean_loss=25.56019991853433
+  [*]epoch_14 learning_rate=0.0001 mean_loss=25.576464468918136
+  [*]epoch_15 learning_rate=0.0001 mean_loss=25.473315453646038
+  [*]epoch_16 learning_rate=0.0001 mean_loss=25.342763513375264
+  [*]epoch_17 learning_rate=0.0001 mean_loss=25.28090964146708
+  [*]epoch_18 learning_rate=0.0001 mean_loss=25.2377041811007
+  [*]epoch_19 learning_rate=0.0001 mean_loss=25.22034524976721
+  [*]epoch_20 learning_rate=0.0001 mean_loss=25.109924162905653
+  [*]epoch_21 learning_rate=0.0001 mean_loss=25.107566444040188
+  [*]epoch_22 learning_rate=0.0001 mean_loss=25.06231820032349
+  [*]epoch_23 learning_rate=0.0001 mean_loss=24.982907587707917
+  [*]epoch_24 learning_rate=0.0001 mean_loss=24.95328670613723
+  [*]epoch_25 learning_rate=0.0001 mean_loss=24.87379520337435
+  [*]epoch_26 learning_rate=0.0001 mean_loss=24.90603721135333
+  [*]epoch_27 learning_rate=0.0001 mean_loss=24.83905946255508
+  [*]epoch_28 learning_rate=0.0001 mean_loss=24.828754000329273
+  [*]epoch_29 learning_rate=0.0001 mean_loss=24.82201832361102
+[*]save success
+
+【round 7】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-7.data
+  Time:2196
+  [*]成功，一共有178996条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=27.42517568971858
+  [*]epoch_1 learning_rate=0.0001 mean_loss=26.93331919568877
+  [*]epoch_2 learning_rate=0.0001 mean_loss=26.720044584647237
+  [*]epoch_3 learning_rate=0.0001 mean_loss=26.459047069229893
+  [*]epoch_4 learning_rate=0.0001 mean_loss=26.25846676320337
+  [*]epoch_5 learning_rate=0.0001 mean_loss=26.04746370262274
+  [*]epoch_6 learning_rate=0.0001 mean_loss=25.857674260379216
+  [*]epoch_7 learning_rate=0.0001 mean_loss=25.684367868221006
+  [*]epoch_8 learning_rate=0.0001 mean_loss=25.624324135806972
+  [*]epoch_9 learning_rate=0.0001 mean_loss=25.47019690508283
+  [*]epoch_10 learning_rate=0.0001 mean_loss=25.32494653403426
+  [*]epoch_11 learning_rate=0.0001 mean_loss=25.249567398945047
+  [*]epoch_12 learning_rate=0.0001 mean_loss=25.160113716125487
+  [*]epoch_13 learning_rate=0.0001 mean_loss=25.054469639229374
+  [*]epoch_14 learning_rate=0.0001 mean_loss=24.97400933537403
+  [*]epoch_15 learning_rate=0.0001 mean_loss=24.914715074826884
+  [*]epoch_16 learning_rate=0.0001 mean_loss=24.824287949993625
+  [*]epoch_17 learning_rate=0.0001 mean_loss=24.827820506175804
+  [*]epoch_18 learning_rate=0.0001 mean_loss=24.781848170104638
+  [*]epoch_19 learning_rate=0.0001 mean_loss=24.66067744633339
+  [*]epoch_20 learning_rate=0.0001 mean_loss=24.651249759290472
+  [*]epoch_21 learning_rate=0.0001 mean_loss=24.628017621066984
+  [*]epoch_22 learning_rate=0.0001 mean_loss=24.54182062202326
+  [*]epoch_23 learning_rate=0.0001 mean_loss=24.519659697676506
+  [*]epoch_24 learning_rate=0.0001 mean_loss=24.476856591848023
+  [*]epoch_25 learning_rate=0.0001 mean_loss=24.458097982673006
+  [*]epoch_26 learning_rate=0.0001 mean_loss=24.45830781872712
+  [*]epoch_27 learning_rate=0.0001 mean_loss=24.361390312557113
+  [*]epoch_28 learning_rate=0.0001 mean_loss=24.37978839714434
+  [*]epoch_29 learning_rate=0.0001 mean_loss=24.364901649219362
+[*]save success
+
+【round 8】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-8.data
+  Time:1617
+  [*]成功，一共有176921条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=26.908174745980613
+  [*]epoch_1 learning_rate=0.0001 mean_loss=26.45325004532365
+  [*]epoch_2 learning_rate=0.0001 mean_loss=26.097399675229674
+  [*]epoch_3 learning_rate=0.0001 mean_loss=25.887972793191057
+  [*]epoch_4 learning_rate=0.0001 mean_loss=25.64335529653997
+  [*]epoch_5 learning_rate=0.0001 mean_loss=25.482827193321363
+  [*]epoch_6 learning_rate=0.0001 mean_loss=25.32821362461199
+  [*]epoch_7 learning_rate=0.0001 mean_loss=25.079399377284464
+  [*]epoch_8 learning_rate=0.0001 mean_loss=24.979591889177954
+  [*]epoch_9 learning_rate=0.0001 mean_loss=24.841460831861234
+  [*]epoch_10 learning_rate=0.0001 mean_loss=24.764500478662047
+  [*]epoch_11 learning_rate=0.0001 mean_loss=24.57662179908634
+  [*]epoch_12 learning_rate=0.0001 mean_loss=24.483640109728068
+  [*]epoch_13 learning_rate=0.0001 mean_loss=24.396703629548956
+  [*]epoch_14 learning_rate=0.0001 mean_loss=24.358679034946395
+  [*]epoch_15 learning_rate=0.0001 mean_loss=24.219674776286922
+  [*]epoch_16 learning_rate=0.0001 mean_loss=24.096581435331554
+  [*]epoch_17 learning_rate=0.0001 mean_loss=24.09820982088777
+  [*]epoch_18 learning_rate=0.0001 mean_loss=24.010665528415185
+  [*]epoch_19 learning_rate=0.0001 mean_loss=24.00265171474641
+  [*]epoch_20 learning_rate=0.0001 mean_loss=23.984225024406303
+  [*]epoch_21 learning_rate=0.0001 mean_loss=23.93333717684653
+  [*]epoch_22 learning_rate=0.0001 mean_loss=23.847235348440893
+  [*]epoch_23 learning_rate=0.0001 mean_loss=23.87159788019073
+  [*]epoch_24 learning_rate=0.0001 mean_loss=23.82366383658455
+  [*]epoch_25 learning_rate=0.0001 mean_loss=23.756873809068544
+  [*]epoch_26 learning_rate=0.0001 mean_loss=23.827441205005588
+  [*]epoch_27 learning_rate=0.0001 mean_loss=23.701168773874247
+  [*]epoch_28 learning_rate=0.0001 mean_loss=23.672997435596443
+  [*]epoch_29 learning_rate=0.0001 mean_loss=23.706179567904552
+[*]save success
+【round 9】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-9.data
+  Time:1396
+  [*]成功，一共有176752条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=26.10239526319288
+  [*]epoch_1 learning_rate=0.0001 mean_loss=25.638017073475936
+  [*]epoch_2 learning_rate=0.0001 mean_loss=25.25884443926056
+  [*]epoch_3 learning_rate=0.0001 mean_loss=25.04494932981638
+  [*]epoch_4 learning_rate=0.0001 mean_loss=24.815829778149116
+  [*]epoch_5 learning_rate=0.0001 mean_loss=24.606951704392067
+  [*]epoch_6 learning_rate=0.0001 mean_loss=24.398482330784
+  [*]epoch_7 learning_rate=0.0001 mean_loss=24.19792120165415
+  [*]epoch_8 learning_rate=0.0001 mean_loss=24.106617929708904
+  [*]epoch_9 learning_rate=0.0001 mean_loss=23.90345683410696
+  [*]epoch_10 learning_rate=0.0001 mean_loss=23.792838520054364
+  [*]epoch_11 learning_rate=0.0001 mean_loss=23.70146086367007
+  [*]epoch_12 learning_rate=0.0001 mean_loss=23.57714505864484
+  [*]epoch_13 learning_rate=0.0001 mean_loss=23.49573831968178
+  [*]epoch_14 learning_rate=0.0001 mean_loss=23.41471116844885
+  [*]epoch_15 learning_rate=0.0001 mean_loss=23.310806562997637
+  [*]epoch_16 learning_rate=0.0001 mean_loss=23.251778620939987
+  [*]epoch_17 learning_rate=0.0001 mean_loss=23.22150726987226
+  [*]epoch_18 learning_rate=0.0001 mean_loss=23.086546949671405
+  [*]epoch_19 learning_rate=0.0001 mean_loss=23.03457356793848
+  [*]epoch_20 learning_rate=0.0001 mean_loss=22.99595069076141
+  [*]epoch_21 learning_rate=0.0001 mean_loss=22.976106892883507
+  [*]epoch_22 learning_rate=0.0001 mean_loss=22.93271153598889
+  [*]epoch_23 learning_rate=0.0001 mean_loss=22.90800326873814
+  [*]epoch_24 learning_rate=0.0001 mean_loss=22.843392003445604
+  [*]epoch_25 learning_rate=0.0001 mean_loss=22.796500646690436
+  [*]epoch_26 learning_rate=0.0001 mean_loss=22.804893627425663
+  [*]epoch_27 learning_rate=0.0001 mean_loss=22.773118135346547
+  [*]epoch_28 learning_rate=0.0001 mean_loss=22.757216002606697
+  [*]epoch_29 learning_rate=0.0001 mean_loss=22.626062154769897
+[*]save success
+
+【round 10】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-10.data
+  Time:1537
+  [*]成功，一共有181945条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=25.74344053160984
+  [*]epoch_1 learning_rate=0.0001 mean_loss=25.308205988748483
+  [*]epoch_2 learning_rate=0.0001 mean_loss=24.955972785247358
+  [*]epoch_3 learning_rate=0.0001 mean_loss=24.611289064973946
+  [*]epoch_4 learning_rate=0.0001 mean_loss=24.459578521175022
+  [*]epoch_5 learning_rate=0.0001 mean_loss=24.264626377983124
+  [*]epoch_6 learning_rate=0.0001 mean_loss=24.06198007322072
+  [*]epoch_7 learning_rate=0.0001 mean_loss=23.843662590599216
+  [*]epoch_8 learning_rate=0.0001 mean_loss=23.657096423038777
+  [*]epoch_9 learning_rate=0.0001 mean_loss=23.50494016766319
+  [*]epoch_10 learning_rate=0.0001 mean_loss=23.45856359680461
+  [*]epoch_11 learning_rate=0.0001 mean_loss=23.32332370293668
+  [*]epoch_12 learning_rate=0.0001 mean_loss=23.137213285298884
+  [*]epoch_13 learning_rate=0.0001 mean_loss=23.074353658619017
+  [*]epoch_14 learning_rate=0.0001 mean_loss=22.977396735191082
+  [*]epoch_15 learning_rate=0.0001 mean_loss=22.97082168435487
+  [*]epoch_16 learning_rate=0.0001 mean_loss=22.873008693958187
+  [*]epoch_17 learning_rate=0.0001 mean_loss=22.83481968415573
+  [*]epoch_18 learning_rate=0.0001 mean_loss=22.706113147028006
+  [*]epoch_19 learning_rate=0.0001 mean_loss=22.647672530025137
+  [*]epoch_20 learning_rate=0.0001 mean_loss=22.65845655392539
+  [*]epoch_21 learning_rate=0.0001 mean_loss=22.54998879145711
+  [*]epoch_22 learning_rate=0.0001 mean_loss=22.537999475483844
+  [*]epoch_23 learning_rate=0.0001 mean_loss=22.494117025033102
+  [*]epoch_24 learning_rate=0.0001 mean_loss=22.452530712044872
+  [*]epoch_25 learning_rate=0.0001 mean_loss=22.40194567784925
+  [*]epoch_26 learning_rate=0.0001 mean_loss=22.359058370168277
+  [*]epoch_27 learning_rate=0.0001 mean_loss=22.37269737026658
+  [*]epoch_28 learning_rate=0.0001 mean_loss=22.280638113753028
+  [*]epoch_29 learning_rate=0.0001 mean_loss=22.335613025351847
+[*]save success
+
+【round 11】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-11.data
+  Time:1495
+  [*]成功，一共有182650条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=25.286194185997864
+  [*]epoch_1 learning_rate=0.0001 mean_loss=24.83815398530832
+  [*]epoch_2 learning_rate=0.0001 mean_loss=24.529138126994628
+  [*]epoch_3 learning_rate=0.0001 mean_loss=24.223451804958106
+  [*]epoch_4 learning_rate=0.0001 mean_loss=24.03445408568133
+  [*]epoch_5 learning_rate=0.0001 mean_loss=23.809097150107654
+  [*]epoch_6 learning_rate=0.0001 mean_loss=23.622285367233147
+  [*]epoch_7 learning_rate=0.0001 mean_loss=23.523481516259814
+  [*]epoch_8 learning_rate=0.0001 mean_loss=23.353272452669017
+  [*]epoch_9 learning_rate=0.0001 mean_loss=23.187307100899083
+  [*]epoch_10 learning_rate=0.0001 mean_loss=23.030501250270422
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.897412800051367
+  [*]epoch_12 learning_rate=0.0001 mean_loss=22.825842244638796
+  [*]epoch_13 learning_rate=0.0001 mean_loss=22.746352328100237
+  [*]epoch_14 learning_rate=0.0001 mean_loss=22.66689759386816
+  [*]epoch_15 learning_rate=0.0001 mean_loss=22.491319694487714
+  [*]epoch_16 learning_rate=0.0001 mean_loss=22.525518196496513
+  [*]epoch_17 learning_rate=0.0001 mean_loss=22.444218654616904
+  [*]epoch_18 learning_rate=0.0001 mean_loss=22.385301575868255
+  [*]epoch_19 learning_rate=0.0001 mean_loss=22.315325948724087
+  [*]epoch_20 learning_rate=0.0001 mean_loss=22.221540543206125
+  [*]epoch_21 learning_rate=0.0001 mean_loss=22.290486656604582
+  [*]epoch_22 learning_rate=0.0001 mean_loss=22.153092710409886
+  [*]epoch_23 learning_rate=0.0001 mean_loss=22.12048745070488
+  [*]epoch_24 learning_rate=0.0001 mean_loss=22.08077991782167
+  [*]epoch_25 learning_rate=0.0001 mean_loss=22.074312281615107
+  [*]epoch_26 learning_rate=0.0001 mean_loss=22.061825552020633
+  [*]epoch_27 learning_rate=0.0001 mean_loss=22.052082772650458
+  [*]epoch_28 learning_rate=0.0001 mean_loss=22.01339609264642
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.942084311133634
+[*]save success
+
+【round 12】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-12.data
+  Time:1427
+  [*]成功，一共有185188条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.780269662968283
+  [*]epoch_1 learning_rate=0.0001 mean_loss=24.35675948742399
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.980807345062818
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.776912614027317
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.452058165943647
+  [*]epoch_5 learning_rate=0.0001 mean_loss=23.228860722247262
+  [*]epoch_6 learning_rate=0.0001 mean_loss=23.050820962914123
+  [*]epoch_7 learning_rate=0.0001 mean_loss=22.889656784982456
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.742108465528386
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.61598328174319
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.5052962823254
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.385211524644113
+  [*]epoch_12 learning_rate=0.0001 mean_loss=22.237806805524148
+  [*]epoch_13 learning_rate=0.0001 mean_loss=22.128564981868408
+  [*]epoch_14 learning_rate=0.0001 mean_loss=22.022404920205183
+  [*]epoch_15 learning_rate=0.0001 mean_loss=21.989120179067164
+  [*]epoch_16 learning_rate=0.0001 mean_loss=21.86411679975415
+  [*]epoch_17 learning_rate=0.0001 mean_loss=21.865233671073007
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.85191940797843
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.782780677916936
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.661507314533704
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.670003438613843
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.626239635002023
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.574815762995645
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.518958831451368
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.473758757243147
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.48722296270902
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.481480943718946
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.406002230829607
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.434362205264378
+[*]save success
+
+【round 13】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-13.data
+  Time:1516
+  [*]成功，一共有188600条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.96144870381846
+  [*]epoch_1 learning_rate=0.0001 mean_loss=24.48337753655928
+  [*]epoch_2 learning_rate=0.0001 mean_loss=24.14632547748683
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.94332650610397
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.700121260144424
+  [*]epoch_5 learning_rate=0.0001 mean_loss=23.45283727706553
+  [*]epoch_6 learning_rate=0.0001 mean_loss=23.2258189834441
+  [*]epoch_7 learning_rate=0.0001 mean_loss=23.044777952095103
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.91235080377168
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.739854482173413
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.6634836667163
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.518016340876688
+  [*]epoch_12 learning_rate=0.0001 mean_loss=22.460699433865756
+  [*]epoch_13 learning_rate=0.0001 mean_loss=22.329550034673698
+  [*]epoch_14 learning_rate=0.0001 mean_loss=22.15317192411372
+  [*]epoch_15 learning_rate=0.0001 mean_loss=22.146890973994235
+  [*]epoch_16 learning_rate=0.0001 mean_loss=22.085876764952822
+  [*]epoch_17 learning_rate=0.0001 mean_loss=22.03210590980465
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.91760958871811
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.83235938627419
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.760256844638892
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.788954173267076
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.71257779555255
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.684834021146578
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.58881345836886
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.581495766675104
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.547281277394625
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.56497345749419
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.5120712679239
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.47342833557412
+[*]save success
+
+【round 14】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-14.data
+  Time:1593
+  [*]成功，一共有187051条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.7017028728059
+  [*]epoch_1 learning_rate=0.0001 mean_loss=24.20136045683265
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.950975167821397
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.624059446223722
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.42296085989711
+  [*]epoch_5 learning_rate=0.0001 mean_loss=23.20709140539042
+  [*]epoch_6 learning_rate=0.0001 mean_loss=22.966822991710114
+  [*]epoch_7 learning_rate=0.0001 mean_loss=22.878093493424398
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.65102908370458
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.488401424687282
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.322873000344256
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.27099392440853
+  [*]epoch_12 learning_rate=0.0001 mean_loss=22.147972873542987
+  [*]epoch_13 learning_rate=0.0001 mean_loss=22.023433308879174
+  [*]epoch_14 learning_rate=0.0001 mean_loss=21.964391473905724
+  [*]epoch_15 learning_rate=0.0001 mean_loss=21.85601310485318
+  [*]epoch_16 learning_rate=0.0001 mean_loss=21.792806296091165
+  [*]epoch_17 learning_rate=0.0001 mean_loss=21.750984996477595
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.61588379356837
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.612317055447864
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.58869431402389
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.513666174362076
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.484125634809665
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.399072739862618
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.370841930793098
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.283721592769083
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.25999352640165
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.26654425054741
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.24934764446134
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.20758884160803
+[*]save success
+【round 15】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-15.data
+  Time:1549
+  [*]成功，一共有186191条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.298021449694446
+  [*]epoch_1 learning_rate=0.0001 mean_loss=23.77525372407874
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.50170268356864
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.251996001418757
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.02913239332582
+  [*]epoch_5 learning_rate=0.0001 mean_loss=22.75386778726998
+  [*]epoch_6 learning_rate=0.0001 mean_loss=22.5645910810067
+  [*]epoch_7 learning_rate=0.0001 mean_loss=22.46625475110096
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.313445046175946
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.156423182799916
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.016363258904725
+  [*]epoch_11 learning_rate=0.0001 mean_loss=21.88664997302628
+  [*]epoch_12 learning_rate=0.0001 mean_loss=21.844800018982525
+  [*]epoch_13 learning_rate=0.0001 mean_loss=21.744546067701886
+  [*]epoch_14 learning_rate=0.0001 mean_loss=21.660086925252553
+  [*]epoch_15 learning_rate=0.0001 mean_loss=21.574245918194027
+  [*]epoch_16 learning_rate=0.0001 mean_loss=21.521972320261625
+  [*]epoch_17 learning_rate=0.0001 mean_loss=21.5126302152648
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.352934691114662
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.34739620421806
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.276900211543197
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.223343346223924
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.13336052085352
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.124161324106662
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.087866334986867
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.050827714221434
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.000970974900667
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.076884037954084
+  [*]epoch_28 learning_rate=0.0001 mean_loss=20.99869786399776
+  [*]epoch_29 learning_rate=0.0001 mean_loss=20.913108171633056
+[*]save success
+
+【round 16】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-16.data
+  Time:1553
+  [*]成功，一共有185866条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.225044574706768
+  [*]epoch_1 learning_rate=0.0001 mean_loss=23.755103658642287
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.424508799142
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.16922595540704
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.01159098893484
+  [*]epoch_5 learning_rate=0.0001 mean_loss=22.849070355095744
+  [*]epoch_6 learning_rate=0.0001 mean_loss=22.64729813236649
+  [*]epoch_7 learning_rate=0.0001 mean_loss=22.43139789462282
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.304561622428793
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.164163737479175
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.089196954381407
+  [*]epoch_11 learning_rate=0.0001 mean_loss=21.885272098395568
+  [*]epoch_12 learning_rate=0.0001 mean_loss=21.88349304768653
+  [*]epoch_13 learning_rate=0.0001 mean_loss=21.732547292919683
+  [*]epoch_14 learning_rate=0.0001 mean_loss=21.67801519258488
+  [*]epoch_15 learning_rate=0.0001 mean_loss=21.58781142078336
+  [*]epoch_16 learning_rate=0.0001 mean_loss=21.494402454513704
+  [*]epoch_17 learning_rate=0.0001 mean_loss=21.457349583306193
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.422766566468926
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.381467105625394
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.331441956479555
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.305640483813107
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.26410073320862
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.211957414923592
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.17012340397909
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.092150638666507
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.112484339939257
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.04579528189911
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.042592686565413
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.023011532825063
+[*]save success
+
+【round 17】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-17.data
+  Time:1631
+  [*]成功，一共有187534条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.489059654689413
+  [*]epoch_1 learning_rate=0.0001 mean_loss=24.09778482848503
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.796865606142724
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.453042099743453
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.23205427893382
+  [*]epoch_5 learning_rate=0.0001 mean_loss=23.103136766881697
+  [*]epoch_6 learning_rate=0.0001 mean_loss=22.893591816982756
+  [*]epoch_7 learning_rate=0.0001 mean_loss=22.672815262874074
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.571577426053086
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.39376744102777
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.31927601898934
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.130693602199653
+  [*]epoch_12 learning_rate=0.0001 mean_loss=22.006182837378212
+  [*]epoch_13 learning_rate=0.0001 mean_loss=21.98042304888944
+  [*]epoch_14 learning_rate=0.0001 mean_loss=21.89850611370171
+  [*]epoch_15 learning_rate=0.0001 mean_loss=21.800914583381605
+  [*]epoch_16 learning_rate=0.0001 mean_loss=21.6984519088977
+  [*]epoch_17 learning_rate=0.0001 mean_loss=21.682299855231477
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.599888334525996
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.59118599231896
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.502926417396278
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.408102320785748
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.393428772997773
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.38215811187126
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.29854466304306
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.287719284429834
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.242830486241672
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.23307228800266
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.239154933897918
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.17943721401059
+[*]save success
+
+【round 18】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-18.data
+  Time:1628
+  [*]成功，一共有190934条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.529599805313993
+  [*]epoch_1 learning_rate=0.0001 mean_loss=24.09346778032573
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.72314121149447
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.435019602729376
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.224802727410854
+  [*]epoch_5 learning_rate=0.0001 mean_loss=23.03788826246479
+  [*]epoch_6 learning_rate=0.0001 mean_loss=22.87681194124624
+  [*]epoch_7 learning_rate=0.0001 mean_loss=22.739947908615747
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.548172898553496
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.42848749303106
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.31232167513903
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.154845394555046
+  [*]epoch_12 learning_rate=0.0001 mean_loss=22.090803223774987
+  [*]epoch_13 learning_rate=0.0001 mean_loss=22.01546772065104
+  [*]epoch_14 learning_rate=0.0001 mean_loss=21.998648394524473
+  [*]epoch_15 learning_rate=0.0001 mean_loss=21.843394392602384
+  [*]epoch_16 learning_rate=0.0001 mean_loss=21.822979677594372
+  [*]epoch_17 learning_rate=0.0001 mean_loss=21.733554220286987
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.66791197503852
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.648905263892267
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.516796839490052
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.49190509178839
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.452769254508148
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.38570986345945
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.343384281507053
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.38763599490645
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.31567504974709
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.282268426280336
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.25872621688583
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.233165462281136
+[*]save success
+
+【round 19】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-19.data
+  Time:1567
+  [*]成功，一共有190343条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.411503725425135
+  [*]epoch_1 learning_rate=0.0001 mean_loss=23.914209247105134
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.6642769396947
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.431466104353635
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.176621220385524
+  [*]epoch_5 learning_rate=0.0001 mean_loss=22.92955543401832
+  [*]epoch_6 learning_rate=0.0001 mean_loss=22.77233890426231
+  [*]epoch_7 learning_rate=0.0001 mean_loss=22.574005162775407
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.507163663282462
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.33194860774512
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.27130749559415
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.086138311696235
+  [*]epoch_12 learning_rate=0.0001 mean_loss=21.970746669363468
+  [*]epoch_13 learning_rate=0.0001 mean_loss=21.879943959632193
+  [*]epoch_14 learning_rate=0.0001 mean_loss=21.761065939013214
+  [*]epoch_15 learning_rate=0.0001 mean_loss=21.710831039685228
+  [*]epoch_16 learning_rate=0.0001 mean_loss=21.672012851405462
+  [*]epoch_17 learning_rate=0.0001 mean_loss=21.57757786249031
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.526164899575043
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.48051003029505
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.411518847187704
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.379247276119777
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.354266621604943
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.346908929312296
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.253282775458057
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.2094736457466
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.1603829632101
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.14430692335549
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.117277654663358
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.133201010182738
+[*]save success
+
+【round 20】
+  [*]正在产生数据...
+  [*]正在保存数据到:./data/round-20.data
+  Time:1500
+  [*]成功，一共有193281条数据
+  [*]开始训练...
+  [*]epoch_0 learning_rate=0.0001 mean_loss=24.708385140921745
+  [*]epoch_1 learning_rate=0.0001 mean_loss=24.336261400951972
+  [*]epoch_2 learning_rate=0.0001 mean_loss=23.99695624949953
+  [*]epoch_3 learning_rate=0.0001 mean_loss=23.755358880008988
+  [*]epoch_4 learning_rate=0.0001 mean_loss=23.50109320382534
+  [*]epoch_5 learning_rate=0.0001 mean_loss=23.319183908591786
+  [*]epoch_6 learning_rate=0.0001 mean_loss=23.157140716023846
+  [*]epoch_7 learning_rate=0.0001 mean_loss=23.04824614389166
+  [*]epoch_8 learning_rate=0.0001 mean_loss=22.884385445915967
+  [*]epoch_9 learning_rate=0.0001 mean_loss=22.72208389690733
+  [*]epoch_10 learning_rate=0.0001 mean_loss=22.63024758231868
+  [*]epoch_11 learning_rate=0.0001 mean_loss=22.507723096609734
+  [*]epoch_12 learning_rate=0.0001 mean_loss=22.45378532942502
+  [*]epoch_13 learning_rate=0.0001 mean_loss=22.334988377714676
+  [*]epoch_14 learning_rate=0.0001 mean_loss=22.256563507332682
+  [*]epoch_15 learning_rate=0.0001 mean_loss=22.169677555036866
+  [*]epoch_16 learning_rate=0.0001 mean_loss=22.091939257391363
+  [*]epoch_17 learning_rate=0.0001 mean_loss=22.008056547132355
+  [*]epoch_18 learning_rate=0.0001 mean_loss=21.973434042696255
+  [*]epoch_19 learning_rate=0.0001 mean_loss=21.93555518449802
+  [*]epoch_20 learning_rate=0.0001 mean_loss=21.929774312484593
+  [*]epoch_21 learning_rate=0.0001 mean_loss=21.788856212055503
+  [*]epoch_22 learning_rate=0.0001 mean_loss=21.799141255056554
+  [*]epoch_23 learning_rate=0.0001 mean_loss=21.701470488288276
+  [*]epoch_24 learning_rate=0.0001 mean_loss=21.693665953170925
+  [*]epoch_25 learning_rate=0.0001 mean_loss=21.73268484662249
+  [*]epoch_26 learning_rate=0.0001 mean_loss=21.63730255014466
+  [*]epoch_27 learning_rate=0.0001 mean_loss=21.63981738709688
+  [*]epoch_28 learning_rate=0.0001 mean_loss=21.589178641596053
+  [*]epoch_29 learning_rate=0.0001 mean_loss=21.578561805285016
+[*]save success
