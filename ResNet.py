@@ -179,21 +179,21 @@ class ResNet:
         #layers.append(self.bn(layers[-1])) 
         #(2)插入卷积层+池化层
         x=layers[-1]
-        y=self.conv(x,"first_conv",32,ksize=[3,3]) 
+        y=self.conv(x,"first_conv",128,ksize=[3,3]) 
         layers.append(y) 
         with tf.variable_scope("Residual_Blocks"):
           with tf.variable_scope("Residual_Blocks_STACK_0"):
             for id in range(stack_n):
               x=layers[-1]
-              b=self.res_block(x,32,"block_%d" %(id))
+              b=self.res_block(x,128,"block_%d" %(id))
               layers.append(b)
           with tf.variable_scope("Residual_Blocks_STACK_1"):
             x=layers[-1]
-            b=self.res_block(x,64,"block_0",True)
+            b=self.res_block(x,256,"block_0",True)
             layers.append(b)
             for id in range(1,stack_n):
               x=layers[-1]
-              b=self.res_block(x,64,"block_%d" %(id))
+              b=self.res_block(x,256,"block_%d" %(id))
               layers.append(b) 
         #maxpool
         """

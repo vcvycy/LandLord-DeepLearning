@@ -14,15 +14,16 @@ bat_sz = 50
 if __name__=="__main__":
    #(1)卷积网络
    #init cnn
-   cnn=ResNet([None,width,height,chan],2)
-   #cnn.restore("./data/")
-   cnn.restore_round(20)
+   cnn=ResNet([None,width,height,chan],3)
+   #cnn.restore("./data/") 
+   round=31
+   if round>1:
+      cnn.restore_round(round-1)
    print("[*]网络初始化成功:网络参数%d" %(cnn.param_num)) 
    #init selfplay
    splay=SelfPlay(cnn) 
    #
-   play_game_num=5000
-   round=21
+   play_game_num=5000 
    while True: 
      print("\n【round %d】" %(round))
      #(1)selfplay，如果已经存在，则读取，否则生成
@@ -33,9 +34,12 @@ if __name__=="__main__":
      print("  [*]成功，一共有%d条数据" %(train_sz))
      
      #(3)train
+     if round>20:
+       learning_rate=1e-5
+     else:
+       learning_rate=1e-4 
      print("  [*]开始训练...") 
      for epoch in range(epochs): 
-       learning_rate=1e-4 
        print("  [*]epoch_%d learning_rate=%s" %(epoch,learning_rate),end=" ")
        sz=train_sz 
        mean_loss=0
